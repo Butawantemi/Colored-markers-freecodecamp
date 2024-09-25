@@ -2,8 +2,15 @@ h1 {
     text-align: center;
   }
   
-  .container {
+.container {
     background-color: rgb(255, 255, 255);
     padding: 10px 0;
   }
+
+.marker {
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+  }
+  
   
